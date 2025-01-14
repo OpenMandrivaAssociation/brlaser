@@ -7,6 +7,7 @@ URL:		https://github.com/Owl-Maintain/brlaser
 License:	GPL-2.0
 Group:		Drivers
 BuildRequires:	cmake
+BuildRequires:	pkgconfig(cups)
 BuildSystem:	cmake
 
 %description
